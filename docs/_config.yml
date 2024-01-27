@@ -18,14 +18,26 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: George's Personal Zone
-email: georgeyamyc@gmail.com
-description: >- #  this means to ignore newlines until "baseurl:"
-  All my bio, research advance, study and teaching notes and life shortcuts will be presented here. Have fun! 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  GEOR-TS
+#title: George's Personal Zone
+#email: georgeyamyc@gmail.com
+#description: >- #  this means to ignore newlines until "baseurl:"
+#  All my bio, research advance, study and teaching notes and life shortcuts will be presented here. Have fun! 
+#baseurl: "" # the subpath of your site, e.g. /blog
+#url: "" # the base hostname & protocol for your site, e.g. http://example.com
+#twitter_username: jekyllrb
+#github_username:  GEOR-TS
+
+locale                   : "en-US"
+title                    : "George's Personal Zone"
+title_separator          : "-"
+subtitle                 : Fighting for PhD. degree
+name                     : "Junyan Ye"
+description              : " All my bio, research advance, study and teaching notes and life shortcuts will be presented here. Have fun! "
+url                      : "https://geor-ts.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : "GEOR-TS/GEOR-TS.github.io"
+
+
 
 # Build settings
 #theme: minima
