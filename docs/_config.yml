@@ -30,8 +30,8 @@ github_username:  GEOR-TS
 # Build settings
 #theme: minima
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-plugins_dir: jekyll-include-cache
-# plugins
+#plugins_dir: jekyll-include-cache
+plugins: jekyll-include-cache
 #  - jekyll-feed
 
 # Exclude from processing.
