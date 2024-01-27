@@ -31,7 +31,8 @@ github_username:  GEOR-TS
 #theme: minima
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 #plugins_dir: jekyll-include-cache
-plugins:   - jekyll-feed
+plugins:   
+ - jekyll-feed
 #jekyll-include-cache
 
 
