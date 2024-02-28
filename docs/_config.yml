@@ -45,7 +45,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an PhD student in the field of Financial Mathematics and Stochastic Control"
   location         : "Somewhere"
-  email            : "georgeyamyc@gmail.com"
+  email            : # "georgeyamyc@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
