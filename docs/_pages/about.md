@@ -5,15 +5,12 @@ permalink: /about/
 toc: true
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Education Experience
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+#### 2019-2024, Jilin University, Mathematics and Applied Mathematics, BSc,                                          Changchun
+#### 2024-    , The Chinese University of Hong Kong, Statistics, PhD,                                                Hong Kong
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## Extra-Curriculum Experience
 
-
-[jekyll-organization]: https://github.com/jekyll
+#### 2022-2023, Student Union of Jilin University
+#### 2022-2024, President of Class, School of Mathematics,
