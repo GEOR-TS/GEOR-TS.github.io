@@ -4,6 +4,7 @@ title: "Resume"
 permalink: /about/
 toc: false
 author_profile: true
+classes: wide
 
 ---
 
