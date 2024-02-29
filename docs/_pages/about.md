@@ -12,12 +12,12 @@ classes: wide
 
 ***
 
- -  **2019 - 2024**  , School of Mathematics, **Jilin University**, Changchun  
+ -  **2019 - 2024**  , School of Mathematics, Jilin University, Changchun  
         Mathematics and Applied Mathematics, BSc  
- -  **2024 -**  , Department of Statistic, **The Chinese University of Hong Kong**, Hong Kong   
+ -  **2024 -**  , Department of Statistic, The Chinese University of Hong Kong, Hong Kong   
         Statistics, PhD 
   
-### Extra-Curriculum Experience
+### Extra-Curriculum/Work Experience
 
 ***
 
