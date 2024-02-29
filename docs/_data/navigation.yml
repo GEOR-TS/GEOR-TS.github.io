@@ -3,8 +3,8 @@ main:
     url: /about/
   - title: "Posts"
     url: /posts/
-  - title: "Gallary"
-    url: /Gallary/
+  - title: "Gallery"
+    url: /Gallery/
   - title: "Publication"
     url: /categories/
   - title: "Tags"
