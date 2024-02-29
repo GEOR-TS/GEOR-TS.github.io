@@ -11,8 +11,8 @@ author_profile: true
 
 ***
 
- - **2019 - 2024** , Mathematics and Applied Mathematics, BSc, School of Mathematics, **Jilin University**, Changchun <br>
- - **2024 -** , Statistics, PhD, Department of Statistic, **The Chinese University of Hong Kong**, Hong Kong <br>
+ - | **2019 - 2024** | , Mathematics and Applied Mathematics, BSc, School of Mathematics, | **Jilin University**, Changchun | <br>
+ - | **2024 -** | , Statistics, PhD, Department of Statistic, | **The Chinese University of Hong Kong**, Hong Kong | <br>
   
 ### Extra-Curriculum Experience
 
