@@ -40,6 +40,17 @@ sidebar:
   - Supervisor: Shuaijie QIAN
   - Research Topic: Free boundary of investment-consumption problem and deep learning method
 
+#### Research Interest
+
+***
+
+- Stochastic Control
+- Financial Mathematics
+- SDE
+- Optimal Transport
+- Machine Learning and Deep Learning
+- Duality
+
 #### Awards
 
 ***
