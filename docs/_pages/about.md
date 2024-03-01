@@ -25,7 +25,7 @@ classes: wide
 
 ***
 
-- **2023 Jul***,
+- **2023 Jul**,
 
 #### Award
 
