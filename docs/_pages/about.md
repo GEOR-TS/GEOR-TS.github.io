@@ -8,10 +8,7 @@ classes: wide
 
 sidebar:
   - title: "Language"
-    children:
-      - "English(non-native)"
-      - "Mandrin(native)"
-#    text: "English(non-native)"
+    text: "English(non-native)<br> Mandrin(native)"
 #    text: "Mandrin(native)"
  #   - text: "Mandrin(native)"
  #   - text: "Cantonese(native)"
@@ -78,3 +75,5 @@ sidebar:
  - **2022 - 2024**, Teaching Assistant
    - Institution: School of Mathematics, Jilin University
    - Responsibility: Organizing and conducting seminars on Mathematical Analysis and Advanced Algebra for freshmen
+
+For more elaborate CV in pdf version please refer to my [CV1](http://jekyllrb.com/docs/themes/) and [CV2](http://jekyllrb.com/docs/themes/).
