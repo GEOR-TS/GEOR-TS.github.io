@@ -1,5 +1,13 @@
 ---
 title: "Hong Kong Scene 1"
+layout: single
+sidebar:
+  - title: "Photographer"
+  #  image: http://placehold.it/350x250
+  #  image_alt: "logo"
+    text: "JY"
+  - title: "Devices"
+    text: "Sony A7C & Tamron 70-180mm F/2.8 Di lll VXD"
 
 gallery:
   - url: /assets/images/hk1_1.jpg
