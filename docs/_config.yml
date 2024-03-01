@@ -46,6 +46,7 @@ author:
   bio              : "Just do it."
   location         : "Tokyo, Japan"
   email            : # "georgeyamyc@gmail.com"
+  linkedin         : "jy"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -64,7 +65,7 @@ author:
       url: "https://github.com/GEOR-TS/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/"
 
 # Site Footer
 footer:
