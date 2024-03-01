@@ -42,9 +42,9 @@ repository               : "GEOR-TS/GEOR-TS.github.io"
 # site author
 author:
   name             : "George Ye "
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an PhD student in the field of Financial Mathematics and Stochastic Control"
-  location         : "Somewhere"
+  avatar           : "/assets/images/my_avatar.jpg"
+  bio              : "Just do it."
+  location         : "Tokyo, Japan"
   email            : # "georgeyamyc@gmail.com"
   links:
     - label: "Email"
