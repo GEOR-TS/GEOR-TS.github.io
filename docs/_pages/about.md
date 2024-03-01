@@ -8,7 +8,7 @@ classes: wide
 
 sidebar:
   - title: "Languages"
-    text: "English(non-native)<br> Mandrin(native)<br> Cantonese(native)<br> Japanese(interested)"
+    text: "English(non-native)<br> Mandrin(native)<br> Cantonese(native)<br> Japanese(amateur)"
   - title: "Skills"
     text: "Python<br> Matlab<br> C & C++<br> PS & PR"
        
@@ -26,7 +26,7 @@ sidebar:
     - Institution: School of Mathematics, Jilin University
     - Location: Changchun  
           
- -  **2024 -**  , PhD in Statistics
+ -  **2024 -**  , PhD in Statistics(forthcoming)
     -  Institution: Department of Statistics, The Chinese University of Hong Kong
     -  Location: Hong Kong
     -  Supervisor: Hoi Ying WONG   
