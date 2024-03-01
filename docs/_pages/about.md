@@ -11,6 +11,8 @@ sidebar:
     text: "English(non-native)<br> Mandrin(native)<br> Cantonese(native)<br> Japanese(amateur)"
   - title: "Skills"
     text: "Python<br> Matlab<br> C & C++<br> PS & PR"
+  - title: "Hobbies"
+    text: "Gym<br> Basketball<br> Football<br> Photography<br> Coffee"
        
 ---
 

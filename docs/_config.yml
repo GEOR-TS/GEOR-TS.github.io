@@ -33,7 +33,7 @@ locale                   : "en-US"
 title                    : "George's Web"
 title_separator          : "-"
 subtitle                 : "Dreamer"
-name                     : "Junyan Ye"
+name                     : "George Ye"
 description              : " All my bio, research advance, study and teaching notes and life shortcuts will be presented here. Have fun! "
 url                      : "https://geor-ts.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -41,12 +41,12 @@ repository               : "GEOR-TS/GEOR-TS.github.io"
 
 # site author
 author:
-  name             : "George Ye "
+  name             : "Junyan Ye "
   avatar           : "/assets/images/my_avatar.jpg"
   bio              : "Just do it."
   location         : "Tokyo, Japan"
   email            : # "georgeyamyc@gmail.com"
-  linkedin         : "jy"
+  linkedin         : "gg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
