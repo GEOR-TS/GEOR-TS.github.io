@@ -5,6 +5,7 @@ permalink: /about/
 toc: false
 author_profile: true
 classes: wide
+author: Junyan Ye
 
 sidebar:
   - title: "Languages"
