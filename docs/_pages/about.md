@@ -7,12 +7,10 @@ author_profile: true
 classes: wide
 
 sidebar:
-  - title: "Language"
-    text: "English(non-native)<br> Mandrin(native)"
-#    text: "Mandrin(native)"
- #   - text: "Mandrin(native)"
- #   - text: "Cantonese(native)"
- #   - text: "Japanese(interest)"
+  - title: "Languages"
+    text: "English(non-native)<br> Mandrin(native)<br> Cantonese(native)<br> Japanese(interested)"
+  - title: "Skills"
+    text: "Python<br> Matlab<br> C & C++<br> PS & PR"
        
 ---
 
@@ -76,4 +74,4 @@ sidebar:
    - Institution: School of Mathematics, Jilin University
    - Responsibility: Organizing and conducting seminars on Mathematical Analysis and Advanced Algebra for freshmen
 
-For more elaborate CV in pdf version please refer to my [CV1](http://jekyllrb.com/docs/themes/) and [CV2](http://jekyllrb.com/docs/themes/).
+For more elaborate CVs in **PDF** version please refer to my [CV1](\assets\files\Junyan_Ye_CV.pdf) and [CV2](\assets\files\ResumeCV_standard.pdf).
