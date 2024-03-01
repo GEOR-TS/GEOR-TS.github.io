@@ -8,8 +8,11 @@ classes: wide
 
 sidebar:
   - title: "Language"
-    text: "English(non-native)"
-    text: "Mandrin(native)"
+    children:
+      - "English(non-native)"
+      - "Mandrin(native)"
+#    text: "English(non-native)"
+#    text: "Mandrin(native)"
  #   - text: "Mandrin(native)"
  #   - text: "Cantonese(native)"
  #   - text: "Japanese(interest)"
