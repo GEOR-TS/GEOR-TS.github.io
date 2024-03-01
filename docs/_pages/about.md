@@ -42,7 +42,7 @@ classes: wide
  - **2021 - 2022**, National Scholarship
  - **2022 - 2023**, QI-ANXIN Scholarship
  - **2021 - 2022**, ZHAOYUE Scholarship
- - **2020, 2021, 2022, 2023** University Exllent Student
+ - **2020, 2021, 2022, 2023** University Excellent Student
  - **2022** University Excellent Student Leader
  - **2021** The First Prize of National College Student Mathematical Modeling Contest in Jilin Area
 
