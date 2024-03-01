@@ -31,6 +31,8 @@ gallery:
     image_path: /assets/images/hk1_6.jpg
     alt: "placeholder image 6"
     title: "Image 6 title caption"
+
+date:   2024-03-01 11:50:25 +0800
   
 ---
 
