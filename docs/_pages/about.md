@@ -3,8 +3,16 @@ layout: single
 title: "Résumé"
 permalink: /about/
 toc: false
-author_profile: true
+#author_profile: true
 classes: wide
+
+sidebar:
+  - title: "Junyan Ye"
+    image: "/assets/images/my_avatar.jpg"
+    image_alt: "My Avatar"
+    text: "Just do it."
+       
+
 
 ---
 
