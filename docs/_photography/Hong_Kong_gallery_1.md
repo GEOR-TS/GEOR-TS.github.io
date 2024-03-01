@@ -32,6 +32,6 @@ date:   2024-03-01 11:50:25 +0800
 ---
 
 
-{% include gallery layout="half" caption="Street View in Hong Kong." %}
+{% include gallery caption="Street View in Hong Kong." %}
 
 
