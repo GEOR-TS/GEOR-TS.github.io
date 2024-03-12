@@ -1,20 +1,20 @@
 ---
 layout: single
-title: "Résumé"
+title: Résumé
 permalink: /about/
 toc: false
 author_profile: true
 classes: wide
 author: Junyan Ye
-
 sidebar:
-  - title: "Languages"
-    text: "English(non-native)<br> Mandrin(native)<br> Cantonese(native)<br> Japanese(amateur)"
-  - title: "Skills"
-    text: "Python<br> Matlab<br> C & C++<br> PS & PR"
-  - title: "Hobbies"
-    text: "Gym<br> Basketball<br> Football<br> Photography<br> Coffee"
-       
+  - title: Languages
+    text: English(non-native)<br> Mandrin(native)<br> Cantonese(native)<br> Japanese(amateur)
+  - title: Skills
+    text: Python<br> Matlab<br> C & C++<br> PS & PR
+  - title: Hobbies
+    text: Gym<br> Basketball<br> Football<br> Photography<br> Coffee
+tags:
+  - Self-Intro
 ---
 
 #### Education Experience
