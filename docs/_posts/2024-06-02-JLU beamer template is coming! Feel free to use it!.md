@@ -1,5 +1,5 @@
 ---
-title: "Hong Kong Scene 1"
+title: "JLU Beamer Template is coming! Feel free to use it!"
 categories:
   - Post Formats
 tags:
